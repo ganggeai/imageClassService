@@ -1,1 +1,1 @@
-simple imageClassService demo by flask with keras VesNet50 based tensorflow 
+simple imageClassService demo by flask with keras VesNet50 based on tensorflow 
